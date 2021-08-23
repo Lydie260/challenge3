@@ -1,0 +1,75 @@
+*
+{
+    box-sizing: border-box;
+}
+header{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+
+    
+
+.button{
+    float:right;
+    border-radius: 10px;
+    padding: 5px;
+    width: 6%;
+    font-size: 10px;
+    color:hsl(321, 100%, 78%);
+    border-color: hsl(321, 100%, 78%);
+    border: solid 2px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.paragraph h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.paragraph p{
+    text-align: center;
+    margin-left: 445px;
+    margin-right: 445px;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 500px;
+    padding: 5px;
+    font-size: 12px;
+    color:hsl(321, 100%, 78%);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),0 10px 
+    10px rgba(0, 0, 0, 0.22);
+    border: none;
+    background-color: hsl(322, 100%, 66%);
+    cursor: pointer;
+    height: 50px ;
+    width: 18%;
+    margin-top: 10px;
+    border-radius: 40px;
+    text-align: center;
+    color: #fff;
+}
+.image{
+    padding-left: 350px;
+    margin-top: 80px;
+    width: 75%;
+}
+.records{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.records p{
+    color: gray;
+}
+.community{
+    padding-left: 40px;
+}
+.message{
+    padding-left: 200px;
+}
+.cont1{
+    background-color:#f6fbff;
+}
