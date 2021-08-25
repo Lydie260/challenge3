@@ -2,11 +2,18 @@
 {
     box-sizing: border-box;
 }
+body{
+    width: 214vh;
+}
 header{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
     font-weight: 700;
+}
+.Container{
+    width: 100%;
+    margin-right: 0%;
 }
 
 
@@ -60,6 +67,7 @@ header{
     display: flex;
     margin-left: 400px;
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 .records p{
     color: gray;
@@ -70,6 +78,19 @@ header{
 .message{
     padding-left: 200px;
 }
-.cont1{
-    background-color:#f6fbff;
+.one{
+    width:100%;
+
+}
+.illustration{
+    float: right;
+    width: 30%;
+    padding: 20px;
+}
+
+.description{
+    padding: 20px;
+}
+.one {
+    height: 500px;
 }
